@@ -1,0 +1,27 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+     font-family: "Google Sans", sans-serif;
+}
+.bluecolor{
+    color: #407BFF !important;
+}
+.signup:hover{
+    background-color: white !important;
+    color: gray;
+    border: 1px solid gray;
+}
+.btn{
+    font-size: 12px !important;
+}
+.bg-gray{
+    background-color: #f8f9fa !important;
+
+}
